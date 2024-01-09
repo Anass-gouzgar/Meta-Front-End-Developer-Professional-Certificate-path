@@ -1,13 +1,23 @@
 * {
-    font-family: sans-serif;
+  font-family: sans-serif;
 }
 nav {
-    background: #ee9972;
-    padding: 20px;
+  background: #ee9972;
+  padding: 20px;
+  text-align: center;
 }
 nav a {
-    color: #edefee;
-    text-decoration: none;
-    font-size: 20px;
-    margin-right: 20px;
+  color: #edefee;
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 20px;
+  border: 2px solid #edefee;
+  border-radius: 12px;
+  padding: 8px;
+}
+
+.video {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
