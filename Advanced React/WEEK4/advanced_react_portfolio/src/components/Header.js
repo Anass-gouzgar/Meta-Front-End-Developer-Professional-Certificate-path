@@ -20,7 +20,7 @@ const socials = [
   },
   {
     icon: faLinkedin,
-    url: "https://www.linkedin.com/anassgouzgar",
+    url: "https://www.linkedin.com/in/anassgouzgar",
   },
   {
     icon: faMedium,
