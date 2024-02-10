@@ -4,7 +4,7 @@ This repository contains certificates for completing various courses in the Fron
 
 ## The MAIN Certificate
 
-- [Meta Front-End Developer](certificates/Meta%20Front-End%20Developer%20.pdf)
+- [Meta Front-End Developer](Meta%20Front-End%20Developer%20.pdf)
 
 
 ## Certificates
