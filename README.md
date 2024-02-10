@@ -4,10 +4,10 @@ This repository contains certificates for completing various courses in the Fron
 
 ## The MAIN Certificate
 
-- [Meta Front-End Developer](Meta%20Front-End%20Developer%20.pdf)
+- [Meta Front-End Developer](/Meta%20Front-End%20Developer%20.pdf)
 
 
-## Certificates
+## Individual Course Certificates
 
 - [Coding Interview Preparation](certificates/Coding%20Interview%20Preparation.pdf) 
 - [Advanced React](certificates/Coursera%20Advanced%20React.pdf)
